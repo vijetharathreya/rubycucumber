@@ -6,3 +6,5 @@ gem 'rake'
 gem 'page-object', '~> 2.0'
 gem 'data_magic'
 gem 'selenium-webdriver'
+#i am adding from my local#
+gem 'watir'
